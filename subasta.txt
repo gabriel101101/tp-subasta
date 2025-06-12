@@ -1,0 +1,11 @@
+
+1 - La subasta se inicia con un valor minimo por defecto 
+y un tiempo estimado que se creo con el deploy.
+
+2 - Tiene una funcion para crear el producto a subastar y 
+luego de crear el producto que se subasta se emite un 
+evento de comienzo de subasta.
+
+3 - Tambien posee la funcion del ofertante, donde se envia el monto
+de oferta, direccion del ofertante y nombre, que posteriormente 
+es guardado en un array.
