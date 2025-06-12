@@ -22,3 +22,12 @@ Incrementaa el ttiempo de la subasta en 600 seg = 10 min.
 6 - FUNCION OFRTA WINER
 Emite un evento que da el ganador de la subasta y cuanto pago, 
 reinicia el contador de oferta en 0.
+
+7 - FUNCION LISTAR OFERTANTE
+Muestra lista de ofertantes del producto subastado. 
+Esta lista fue creada en un array.
+
+8 - FUNCION DEVOLUCION
+Realiza la devolucion a los ofertantes que estubieron en la
+subasta y no compraron el producto, pero se les descuenta una 
+comision del 2%.
