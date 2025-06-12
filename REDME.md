@@ -19,6 +19,6 @@ comprado el producto subastado.
 5 - FUNCION AGREGAR TIEMPO
 Incrementaa el ttiempo de la subasta en 600 seg = 10 min.
 
-6 - FUCION OFRTA WINER
+6 - FUNCION OFRTA WINER
 Emite un evento que da el ganador de la subasta y cuanto pago, 
 reinicia el contador de oferta en 0.
